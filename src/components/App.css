@@ -1,0 +1,8 @@
+.App {
+    font-family: sans-serif;
+    display: flex;
+    max-width: 600px;
+    margin: auto;
+    flex-direction: column;
+    gap: 16px;
+}
